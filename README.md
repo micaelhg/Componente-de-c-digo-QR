@@ -6,13 +6,8 @@ Esta es una solución al [desafío de componentes de código QR en Frontend Ment
 
 - [Captura de pantalla](#captura de pantalla)
 - [Enlaces](#enlaces)
-- [Mi proceso](#mi-proceso)
 - [Creado con](#crea-con)
-- [Lo que aprendí](#lo-que-aprendí)
-- [Desarrollo continuo](#desarrollo-continuo)
-- [Recursos útiles](#recursos-útiles)
 - [Autor](#autor)
-- [Agradecimientos](#agradecimientos)
 
 
 ### Captura de pantalla
@@ -23,9 +18,7 @@ Esta es una solución al [desafío de componentes de código QR en Frontend Ment
 
 ### Enlaces
 
-- URL de la solución: [Añadir la URL de la solución aquí](https://your-solution-url.com)
-- URL del sitio web: [Añadir la URL del sitio web aquí](https://your-live-site-url.com)
-
+- URL de la solución: https://micaelhg.github.io/Componente-de-c-digo-QR/ 
 
 ### Creado con
 
